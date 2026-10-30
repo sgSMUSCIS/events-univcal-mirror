@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" version="2.0">
+	<channel>
+		<title>School of Computing and Information Systems</title>
+		<link>http://sis.smu.edu.sg/events</link>
+		<description />
+		<language>en-us</language>
+		<lastBuildDate>29 Oct 2026 16:07:55 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>https://www.trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://sis.smu.edu.sg/events</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.26229//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>School of Computing and Information Systems</xCal:calname>
+		<xCal:timezone>Asia/Singapore</xCal:timezone>
+		<item>
+			<title>Hybrid Learning for Recommendation: From Contrastive Alignment to Language-Model Fusion</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Tuesday, November 3, 2026, 3 - 4pm 
+
+Hybrid Learning for Recommendation: From Contrastive Alignment to Language-Model Fusion
+
+Recommender systems have largely relied on collaborative filtering, which maps users and items to compact latent vectors and ranks by their dot product. This makes large-scale ranking fast, but interaction data records only that a preference was expressed, never why, and is often sparse. User reviews and pre-trained language models can supply the missing semantics, yet existing methods either treat reviews as input features, underserving entities with few reviews, or place a language model in the inference path at a per-query cost that does not scale.
+
+This dissertation brings semantic understanding into collaborative recommendation while preserving efficient retrieval. First, a review-centric contrastive alignment framework moves reviews from the input pipeline into the training objective. Second, a large language model extends this framework by constructing contrastive views offline. Third, a fusion framework jointly trains user and item ID-token embeddings with masked identifier modeling through a frozen language model and Bayesian personalized ranking.
+
+A key novelty lies in determining where text should act: it shapes the learned representations during training but is never required at serving time. This improves robustness to sparse and missing reviews and reduces inference latency by orders of magnitude compared with LLM-based recommenders. The findings, including the caution that fluent generated text is not automatically valid contrastive supervision, extend to other sparse and heterogeneous domains with auxiliary text. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-dong-viet-hoang-hybrid-learning-recommendation-contrastive?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D211745516</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/876axhfdc2405vs37b73x81f6x</x-trumba:ealink>
+			<category>2026/11/03 (Tue)</category>
+			<pubDate>03 Nov 2026 07:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/211745516</guid>
+			<xCal:summary>Hybrid Learning for Recommendation: From Contrastive Alignment to Language-Model Fusion</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-03T07:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-03T15:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, November 3, 2026, 3 - 4pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-03T08:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-03T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Recommender systems have largely relied on collaborative filtering, which maps users and items to compact latent vectors and ranks by their dot product. This makes large-scale ranking fast, but interaction data records only that a preference was expressed, never why, and is often sparse. User reviews and pre-trained language models can supply the missing semantics, yet existing methods either treat reviews as input features, underserving entities with few reviews, or place a language model in the inference path at a per-query cost that does not scale.
+
+This dissertation brings semantic understanding into collaborative recommendation while preserving efficient retrieval. First, a review-centric contrastive alignment framework moves reviews from the input pipeline into the training objective. Second, a large language model extends this framework by constructing contrastive views offline. Third, a fusion framework jointly trains user and item ID-token embeddings with masked identifier modeling through a frozen language model and Bayesian personalized ranking.
+
+A key novelty lies in determining where text should act: it shapes the learned representations during training but is never required at serving time. This improves robustness to sparse and missing reviews and reduces inference latency by orders of magnitude compared with LLM-based recommenders. The findings, including the caution that fluent generated text is not automatically valid contrastive supervision, extend to other sparse and heterogeneous domains with auxiliary text.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/211745516</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Defense by DONG Viet Hoang</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgCgLWgt2HvZj3rApyNgMUxd.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-07/vhdong-2021.jpg" width="100" height="120"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;DONG Viet Hoang&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;I received my&amp;nbsp;&lt;a href="http://b.sc/" target="_blank" dir="ltr"&gt;B.Sc&lt;/a&gt;. in Computer Science (Honors Program) from the University of Engineering and Technology, Vietnam National University, Hanoi. My research interests include recommender systems, contrastive learning, and large language models for recommendation; in particular, I integrate user reviews and language models into collaborative filtering to build recommender systems that are both semantically informed and efficient. This work has resulted in publications at leading conferences and journals in data mining and information systems, and was selected as a top-ranked paper at WSDM 2025, where I presented it with the support of a SIGIR Travel Award.&amp;nbsp;I have served as a volunteer for TheWebConf 2024, as a program committee member for conferences such as SIGIR, KDD, WSDM, CIKM, and TheWebConf, and as a reviewer for the journals IEEE TKDE and Tsinghua Science and Technology. Beyond research, I apply AI and data technologies to real-world challenges in Vietnam, work that was recognized with the Vietnam Digital Award 2025. In my leisure time, I lead the Singapore chapter of the Dong Hanh Foundation, a non-profit supporting underprivileged Vietnamese youth, and enjoy exploring new and interesting areas of knowledge.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UOEgxRzFENVlQOTYxTzc4OVNXWjdFM1M4MC4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UN1o3QjlRMlI1VzkxQUpWQ1JHVkhLRkpFMy4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UN1o3QjlRMlI1VzkxQUpWQ1JHVkhLRkpFMy4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-dong-viet-hoang-hybrid-learning-recommendation-contrastive?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Climate Transition Stress Testing for Corporate Credit Risk</title>
+			<description>Wednesday, November 4, 2026, 1 - 1:30pm 
+
+Climate Transition Stress Testing for Corporate Credit Risk</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D209940468</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/w8hvc5ufmjm6ypn9h2d301x41b</x-trumba:ealink>
+			<category>2026/11/04 (Wed)</category>
+			<pubDate>04 Nov 2026 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/209940468</guid>
+			<xCal:summary>Climate Transition Stress Testing for Corporate Credit Risk</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2026-11-04T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-04T13:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, November 4, 2026, 1 - 1:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-04T05:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-04T13:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/209940468</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="600" imageHeight="337">https://www.trumba.com/i/DgC2W2ZrIcv%2AtjJuexcfmJcH.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">SCIS EngD 2026 Pre-conference talk by NGUYEN Huynh Long Hung</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://smu-sg.zoom.us/meeting/register/GykuFUwaR6KMyVfsoeiVhA" target="_blank"&gt;&lt;a href="https://smu-sg.zoom.us/meeting/register/HWBBj3-KSQiNpucb0AIqOg" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-07/hlhnguyen-2022.jpg" width="140"&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/b&gt;
+This talk presents a transparent data-mining approach for connecting corporate financial information with ESG risk measures to support climate-transition stress testing. The framework separates two tasks: assessing a firm’s underlying financial distress and examining how an externally imposed transition-risk scenario could affect that assessment. This separation makes the assumptions behind the stress test visible, auditable, and replaceable.
+
+
+Using U.S. corporate financial and ESG data, the study finds that conventional financial information remains the main driver of baseline distress classification, while ESG information is more useful for determining how transition-risk scenarios are distributed across firms. The results highlight both the potential and the limitations of using ESG data in climate credit-risk analysis and demonstrate how machine learning can support scenario analysis without presenting illustrative stress tests as forecasts of future default.
+
+
+This is a pre-conference talk for the &lt;a href="https://icdm2026.neu.edu.cn/" target="_blank" dir="ltr"&gt;2026 IEEE International Conference on Data Mining (ICDM 2026)&lt;/a&gt;.
+&lt;hr /&gt;&lt;b&gt;&lt;strong&gt;Speaker Biography&lt;/strong&gt;&lt;/b&gt;
+Huynh Long Hung Nguyen is an Engineering Doctorate researcher at the School of Computing and Information Systems, Singapore Management University. His research focuses on machine learning and digital technologies for sustainability and financial risk management.
+
+
+His work explores how data-driven methods and emerging technologies can be applied to practical problems in areas such as credit risk, climate and sustainability risk, and sustainable finance, with particular attention to transparency, model governance, and real-world implementation.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Alumni,Current Student,Incoming Students,Prospective Student,SMU Faculty &amp; Staff</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Doctor of Engineering|Infosessions</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>SMU: Taipei Coffee Session</title>
+			<description>Location will be sent to confirmed attendees 
+Wednesday, November 4, 2026, 5:30 - 7:30pm 
+
+SMU: Taipei Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D210886513</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/g1c0ep4rfj363v5gk40swm84bv</x-trumba:ealink>
+			<category>2026/11/04 (Wed)</category>
+			<pubDate>04 Nov 2026 09:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/210886513</guid>
+			<xCal:summary>SMU: Taipei Coffee Session</xCal:summary>
+			<xCal:location>Location will be sent to confirmed attendees</xCal:location>
+			<xCal:dtstart>2026-11-04T09:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-04T17:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, November 4, 2026, 5:30 - 7:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-04T11:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-04T19:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/210886513</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgBlJWUnsP7TxqUkuw316HC0.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/ivysim-smu/hcmccs281026" target="_blank"&gt;&lt;a href="https://calendly.com/ivysim-smu/tpcs041126" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://calendly.com/ivysim-smu/tpcs041126</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Utility-Aware Behavioral Data Mining for Markets and Recommender Systems</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Thursday, November 5, 2026, 9 - 10am 
+
+Utility-Aware Behavioral Data Mining for Markets and Recommender Systems
+
+Behavioral data reveal preferences and choices, but prediction alone cannot identify decisions best serving a specified objective. This dissertation investigates utility-aware behavioral data mining for markets and recommender systems, linking behavioral evidence to seller revenue and profit in bundling and investor portfolio utility in financial recommendation.
+
+The first study introduces the Integrated Price Mining Method (IPMM) for joint pricing of a predefined, potentially overlapping bundle catalog. Consumers may purchase multiple non-overlapping bundles. Modeling selection as weighted set packing and exploiting overlap dependencies, IPMM approximates revenue maximization. Evaluations show revenues near exact benchmarks on small instances and gains over baselines on larger ones.
+
+The second study examines bundle construction and pricing by two competing firms with asymmetric inventories and heterogeneous costs. CoRe Bundling constructs differentiated offers using matching and rival-aware pricing; Strategic Replica reproduces and reprices feasible rival bundles. Evaluations identify conditions favoring differentiation or replication. Repeated responses reach exact equilibria in some small instances but often cycle, depending on initialization.
+
+The third study develops GuidedRec to select a fixed number of behaviorally admissible non-held assets, maximizing estimated, profile-conditioned mean-variance utility of an equal-weight portfolio combining holdings and additions. Exact factor-state reformulation and safe dual completion bounds enable branch-and-bound search, certifying optimality over admissible slates or reporting valid gaps upon interruption. FAR-Trans evaluations show the highest observed date-balanced mean deployment-adjusted improvements in utility and Sharpe ratio among evaluated methods, with all main instances certified.
+
+These studies develop computational methods for context-specific objectives amid bundle overlap, strategic competition, and asset covariance. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-young-ezekiel-ong-utility-aware-behavioral-data-mining-markets?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212035642</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/w4wpurhsfc0kan02ft8y38bufn</x-trumba:ealink>
+			<category>2026/11/05 (Thu)</category>
+			<pubDate>05 Nov 2026 01:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212035642</guid>
+			<xCal:summary>Utility-Aware Behavioral Data Mining for Markets and Recommender Systems</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-05T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-05T09:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, November 5, 2026, 9 - 10am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-05T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-05T10:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Behavioral data reveal preferences and choices, but prediction alone cannot identify decisions best serving a specified objective. This dissertation investigates utility-aware behavioral data mining for markets and recommender systems, linking behavioral evidence to seller revenue and profit in bundling and investor portfolio utility in financial recommendation.
+
+The first study introduces the Integrated Price Mining Method (IPMM) for joint pricing of a predefined, potentially overlapping bundle catalog. Consumers may purchase multiple non-overlapping bundles. Modeling selection as weighted set packing and exploiting overlap dependencies, IPMM approximates revenue maximization. Evaluations show revenues near exact benchmarks on small instances and gains over baselines on larger ones.
+
+The second study examines bundle construction and pricing by two competing firms with asymmetric inventories and heterogeneous costs. CoRe Bundling constructs differentiated offers using matching and rival-aware pricing; Strategic Replica reproduces and reprices feasible rival bundles. Evaluations identify conditions favoring differentiation or replication. Repeated responses reach exact equilibria in some small instances but often cycle, depending on initialization.
+
+The third study develops GuidedRec to select a fixed number of behaviorally admissible non-held assets, maximizing estimated, profile-conditioned mean-variance utility of an equal-weight portfolio combining holdings and additions. Exact factor-state reformulation and safe dual completion bounds enable branch-and-bound search, certifying optimality over admissible slates or reporting valid gaps upon interruption. FAR-Trans evaluations show the highest observed date-balanced mean deployment-adjusted improvements in utility and Sharpe ratio among evaluated methods, with all main instances certified.
+
+These studies develop computational methods for context-specific objectives amid bundle overlap, strategic competition, and asset covariance.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212035642</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Proposal by YOUNG Ezekiel Ong</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgAFANwgRJwf1jWQYBh7fM-Y.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-08/eoyoung-2023.jpg"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;YOUNG Ezekiel Ong&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;Ezekiel YOUNG is a PhD candidate at the School of Computing and Information Systems, Singapore Management University, under the supervision of Prof. Hady W. Lauw. His research focuses on the intersection of economics and computation, with applications to product bundling, competitive markets, and portfolio recommendation.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9URTRITEpTRzBHWk5ETU5YOThaMjVQRjUyVC4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UNU8wRzlHWlUzRVJEQlk4N1A1VzdVUjlHMi4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UNU8wRzlHWlUzRVJEQlk4N1A1VzdVUjlHMi4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-young-ezekiel-ong-utility-aware-behavioral-data-mining-markets?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Towards Dynamic Security Engineering for Cyber-Physical Systems</title>
+			<description>Thursday, November 5, 2026, 10 - 11am 
+
+Towards Dynamic Security Engineering for Cyber-Physical Systems</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D207494124</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/w21jts334rukwgx615kvb5e1pz</x-trumba:ealink>
+			<category>2026/11/05 (Thu)</category>
+			<pubDate>05 Nov 2026 02:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/207494124</guid>
+			<xCal:summary>Towards Dynamic Security Engineering for Cyber-Physical Systems</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2026-11-05T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-05T10:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, November 5, 2026, 10 - 11am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-05T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-05T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/207494124</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="600" imageHeight="337">https://www.trumba.com/i/DgC2W2ZrIcv%2AtjJuexcfmJcH.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">SCIS EngD 2026 Final Dissertation by HUANG Shao Fei</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://smu-sg.zoom.us/meeting/register/GykuFUwaR6KMyVfsoeiVhA" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">&lt;img src="https://staffphoto.smu.edu.sg/s/sfhuang/600x400" width="300" height="200"&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/b&gt;
+Cyber-physical systems (CPSs) underpin critical infrastructure, transportation, and industrial operations, yet their extended life cycles, evolving threat landscapes, and safety-critical demands make them difficult to secure using traditional, static security engineering approaches. This dissertation argues that CPS security demands a dynamic security engineering paradigm: one that continuously updates threat-informed models, incorporates operational evidence, and supports adaptive decision-making under uncertainty.
+&amp;nbsp;
+The dissertation develops this paradigm through four contributions that collectively form a unifying framework for dynamic security engineering. By integrating model-driven methods, probabilistic reasoning, and LLM-assisted assessment, the framework positions human practitioners, supported by AI-assisted automation, at the centre of securing CPSs across their design, operation, and evolution.
+&lt;hr /&gt;&lt;b&gt;&lt;strong&gt;Speaker Biography&lt;/strong&gt;&lt;/b&gt;
+Shao Fei is a senior cybersecurity professional with over 27 years of experience in both the public and private sectors. He currently holds the position of Group Chief Information Security Officer at SMRT Corporation and is an adjunct lecturer at Singapore Management University. Shao Fei's career encompasses various roles at Amazon Web Services and the Singapore Public Service. He is a Fellow of the Singapore Computer Society (SCS) and actively contributes to multiple initiatives advancing cybersecurity both in Singapore and internationally. He earned his Master's degree in Business Administration from the University of Leicester in 2002 and Bachelor's degree in Engineering from the University of Tokyo in 1998.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Alumni,Current Student,Incoming Students,Prospective Student,SMU Faculty &amp; Staff</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Doctor of Engineering|Infosessions</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Grounding Foundation Models with Local Context for Societal Impact</title>
+			<description>Seminar Room 3-4, Level 3. SMU SCIS 1, Singapore 178902 
+Friday, November 13, 2026, 10:30 - 11:30am 
+
+Grounding Foundation Models with Local Context for Societal Impact
+
+Foundation models are remarkably capable but fundamentally lack local context, which are the domain-specific, community-specific, and structurally rich knowledge required by real-world applications. In this talk, I will discuss our work on bridging this gap through knowledge graphs, retrieval-grounded architectures, and domain-aware reasoning. I will show how these approaches enable deployed tools for wildlife conservation research, navigation of Colombia's Truth Commission archives, and personalized nutritional reasoning; the very settings where generic model knowledge falls short and local context is everything. I will close with reflections on what it takes to move from innovative methods to tools that practitioners actually use. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/research-seminar-nitesh-chawla-grounding-foundation-models-local-context-societal-impact?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D209087588</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/0rjf29d7k1fh8cy4u8u05gkgvp</x-trumba:ealink>
+			<category>2026/11/13 (Fri)</category>
+			<pubDate>13 Nov 2026 02:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/209087588</guid>
+			<xCal:summary>Grounding Foundation Models with Local Context for Societal Impact</xCal:summary>
+			<xCal:location>Seminar Room 3-4, Level 3. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-13T02:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-13T10:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, November 13, 2026, 10:30 - 11:30am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-13T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-13T11:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Foundation models are remarkably capable but fundamentally lack local context, which are the domain-specific, community-specific, and structurally rich knowledge required by real-world applications. In this talk, I will discuss our work on bridging this gap through knowledge graphs, retrieval-grounded architectures, and domain-aware reasoning. I will show how these approaches enable deployed tools for wildlife conservation research, navigation of Colombia's Truth Commission archives, and personalized nutritional reasoning; the very settings where generic model knowledge falls short and local context is everything. I will close with reflections on what it takes to move from innovative methods to tools that practitioners actually use.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/209087588</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Research Seminar by Nitesh CHAWLA</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgBbH2uT9IrSOn-X1j7XzIXS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2026-09/nitesh-chawla.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Nitesh CHAWLA&lt;/strong&gt;&lt;/b&gt;
+Frank M. Freimann Professor of
+Computer Science &amp;amp; Engineering
+University of Notre Dame&lt;hr /&gt;Nitesh CHAWLA is the Frank M. Freimann Professor of Computer Science and Engineering and the Lucy Family Director for Data &amp;amp; AI Academic Strategy, leading the Data, AI, and Computing Initiative at the University of Notre Dame. His research is focused on artificial intelligence, data science, and network science, and is motivated by the question of how technology can advance the common good through convergence. His research has led to more than 103,000 citations with an h-index of 98. He is a Fellow of: the Institute of Electrical and Electronics Engineers (IEEE); the Association of Computing Machinery (ACM); the American Association for the Advancement of Science (AAAS); and the Association for the Advancement of Artificial Intelligence (AAAI). He is the recipient of multiple awards, including the National Academy of Engineers New Faculty Fellowship, IEEE CIS Outstanding Early Career Award, Rodney F. Ganey Community Impact Award, IBM Big Data &amp;amp; Analytics Faculty Award, IBM Watson Faculty Award, Notre Dame All Faculty Team Award, and the 1st Source Bank Technology Commercialization Award. He is a serial entrepreneur, having (co-) founded multiple start-ups.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpURDZOQkxVSkhITzQzUzExVlVRRkZDSDZHNC4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUMzUzQTU4UDJXQTRHSDFNSVI1WDJCWklGSC4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUMzUzQTU4UDJXQTRHSDFNSVI1WDJCWklGSC4u&amp;route=shorturl</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/research-seminar-nitesh-chawla-grounding-foundation-models-local-context-societal-impact?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>SMU: Jakarta Coffee Session</title>
+			<description>Location will be sent to confirmed attendees 
+Friday, November 13, 2026, 7:30 - 9:30pm 
+
+SMU: Jakarta Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D211793398</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/0jswru0fnk41rs82mwdh04bsy3</x-trumba:ealink>
+			<category>2026/11/13 (Fri)</category>
+			<pubDate>13 Nov 2026 11:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/211793398</guid>
+			<xCal:summary>SMU: Jakarta Coffee Session</xCal:summary>
+			<xCal:location>Location will be sent to confirmed attendees</xCal:location>
+			<xCal:dtstart>2026-11-13T11:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-13T19:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, November 13, 2026, 7:30 - 9:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-13T13:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-13T21:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/211793398</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgAVZy50Hxkpmmnmlk6lDTpj.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/ivysim-smu/hcmccs281026" target="_blank"&gt;&lt;a href="https://calendly.com/ivysim-smu/20261113jktcs" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://calendly.com/ivysim-smu/20261113jktcs</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>SMU: Surabaya Coffee Session</title>
+			<description>Location will be sent to confirmed attendees 
+Monday, November 16, 2026, 4 - 7pm 
+
+SMU: Surabaya Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D211863163</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/86rkvfjx7cduvg9z6cjfcez6wx</x-trumba:ealink>
+			<category>2026/11/16 (Mon)</category>
+			<pubDate>16 Nov 2026 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/211863163</guid>
+			<xCal:summary>SMU: Surabaya Coffee Session</xCal:summary>
+			<xCal:location>Location will be sent to confirmed attendees</xCal:location>
+			<xCal:dtstart>2026-11-16T08:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-16T16:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, November 16, 2026, 4 - 7pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-16T11:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-16T19:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/211863163</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgAVZy50Hxkpmmnmlk6lDTpj.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/ivysim-smu/20261113jktcs" target="_blank"&gt;&lt;a href="https://calendly.com/chrisng-fstn/smuccsurabayanov26" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://calendly.com/chrisng-fstn/smuccsurabayanov26</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Formal models are magic</title>
+			<description>Meeting Room 4-4 Level 4. SMU SCIS 1, Singapore 178902 
+Tuesday, December 1, 2026, 10 - 11am 
+
+Formal models are magic
+
+In this work, we investigate a variant of the Four Glasses Puzzle (FGP) through the lens of formal verification. Although the puzzle appears to be unsolvable at first glance, formal verification enables the discovery of a correct solution. We demonstrate how the model can be constructed and reduced through progressive abstractions, ultimately yielding a concise and comprehensible model that captures all possible puzzle configurations. To ensure computational efficiency, we introduce the Escape Game - an algorithmic construction that eliminates redundant cycles and facilitates strategy synthesis under imperfect information. Finally, by analysing the strategic capabilities of the player, we present a solution to the puzzle. The approach is formally defined and proven correct. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/research-seminar-laure-petrucci-formal-models-are-magic?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212406264</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/sxaz5u29ndy9muvta0m0nm8xcj</x-trumba:ealink>
+			<category>2026/12/01 (Tue)</category>
+			<pubDate>01 Dec 2026 02:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212406264</guid>
+			<xCal:summary>Formal models are magic</xCal:summary>
+			<xCal:location>Meeting Room 4-4 Level 4. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-12-01T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-01T10:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, December 1, 2026, 10 - 11am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-01T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-01T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>In this work, we investigate a variant of the Four Glasses Puzzle (FGP) through the lens of formal verification. Although the puzzle appears to be unsolvable at first glance, formal verification enables the discovery of a correct solution. We demonstrate how the model can be constructed and reduced through progressive abstractions, ultimately yielding a concise and comprehensible model that captures all possible puzzle configurations. To ensure computational efficiency, we introduce the Escape Game - an algorithmic construction that eliminates redundant cycles and facilitates strategy synthesis under imperfect information. Finally, by analysing the strategic capabilities of the player, we present a solution to the puzzle. The approach is formally defined and proven correct.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212406264</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Research Seminar by Laure PETRUCCI</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgBbH2uT9IrSOn-X1j7XzIXS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2026-10/laure-petrucci.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Laure PETRUCCI&lt;/strong&gt;&lt;/b&gt;
+Professor
+University Paris 13&lt;hr /&gt;Laure PETRUCCI obtained her PhD in Computer Science from University Paris 6 in 1991. She then became associate professor in Evry. In 2003, she obtained a Full Professor position at University Paris 13. Her research takes place in the SAFER team of the LIPN laboratory. Her area of expertise is formal specification and verification of concurrent systems so as to guarantee their appropriate behaviour, using automata or Petri nets models, as well as parametric models. In order to tackle the well-known state space explosion problem, the research she develops exploits modularity in the models, proposes distributed approaches, and algorithms for parameter synthesis. In recent works she has tackled strategy synthesis for multi-agent systems, according to different semantics, and proposed novel logics to express properties and model-checking approaches.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNTYwQkVYQVlXSVVKWTVQMVowWkJIRFhOUS4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UNEM0WUdOVUZRV085NUpHSzZIQldGTjhLOS4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UNEM0WUdOVUZRV085NUpHSzZIQldGTjhLOS4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/research-seminar-laure-petrucci-formal-models-are-magic?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA 2026)</title>
+			<description>SMU School of Economics/School of Computing &amp; Information Systems 2, Level 4, 90 Stamford Road, Singapore 178903 
+Wednesday, December 2 - Friday, December 4, 2026 
+
+The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA 2026)
+
+SETTA 2026 aims to bring together researchers and practitioners in dependable software engineering to advance theories, methods, tools, and practical applications for trustworthy software-intensive systems. The conference will facilitate exchange across formal methods, verification and validation, software testing, program analysis, and emerging AI-enabled systems; promote collaborations between academia and industry; and provide opportunities for early-career researchers and students to engage with international experts. 
+
+More info: www.setta2026.sg…: https://www.setta2026.sg/home</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212232647</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/07bd9x1088c2ep4dyf8udv644f</x-trumba:ealink>
+			<category>2026/12/02 (Wed)</category>
+			<pubDate>01 Dec 2026 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212232647</guid>
+			<xCal:summary>The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA 2026)</xCal:summary>
+			<xCal:location>SMU School of Economics/School of Computing &amp; Information Systems 2, Level 4, 90 Stamford Road, Singapore 178903</xCal:location>
+			<xCal:dtstart>2026-12-01T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-02T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, December 2 - Friday, December 4, 2026</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-04T16:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-05T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>SETTA 2026 aims to bring together researchers and practitioners in dependable software engineering to advance theories, methods, tools, and practical applications for trustworthy software-intensive systems. The conference will facilitate exchange across formal methods, verification and validation, software testing, program analysis, and emerging AI-enabled systems; promote collaborations between academia and industry; and provide opportunities for early-career researchers and students to engage with international experts.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212232647</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1510" imageHeight="662">https://www.trumba.com/i/DgBk8Kg-P78a2pQ6V-ss0Sxu.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://www.setta2026.sg/home/registration" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://www.setta2026.sg/home/registration</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Conferences &amp; Symposiums</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://www.setta2026.sg/home</x-trumba:weblink>
+		</item>
+	</channel>
+</rss>

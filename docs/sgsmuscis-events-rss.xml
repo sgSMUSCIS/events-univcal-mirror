@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" version="2.0">
+	<channel>
+		<title>School of Computing and Information Systems</title>
+		<link>http://sis.smu.edu.sg/events</link>
+		<description />
+		<language>en-us</language>
+		<lastBuildDate>19 Nov 2026 08:33:40 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>https://www.trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://sis.smu.edu.sg/events</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.26319//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>School of Computing and Information Systems</xCal:calname>
+		<xCal:timezone>Asia/Singapore</xCal:timezone>
+		<item>
+			<title>The Hidden Cost of Transparency: How Evaluator Stance Shapes Feedback Responses among Individual Platform Participants</title>
+			<description>Meeting room 4.4, Level 4. School of Computing and Information Systems 1, 
+Singapore Management University, 80 Stamford Road, Singapore 178902 
+Monday, November 23, 2026, 2 - 2:30pm 
+
+The Hidden Cost of Transparency: How Evaluator Stance Shapes Feedback Responses among Individual Platform Participants
+
+Platforms increasingly reveal who evaluated a contribution and with what stance, but little is known about how this transparency shapes recipients, who often decide for themselves whether to act on feedback. We distinguish feedback content from the evaluative signal and examine how an evaluator's revealed stance shapes recipients' responses to feedback using two field studies. The first, on an online healthcare platform, finds that evaluative stance matters: physicians improve service performance after receiving positive patient reviews, whereas negative reviews produce no significant improvement. The second isolates the effect of evaluator stance on a crowdsourcing platform where voting shifted from anonymous to attributable while substantive feedback remained unchanged. Once evaluators’ stances become visible, ideators become less likely to incorporate suggestions from detractors, while incorporation of suggestions from supporters, non-voters, and ideators themselves remains unaffected. These findings show that negative evaluative signals can weaken receptiveness to substantive feedback, highlighting an important hidden cost of platform transparency.
+
+This is a Pre-Conference talk for 2026 Pre-ICIS SIGDSA Symposium (SIGDSA 2026): https://preicis.sigdsa.org/. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/pre-conference-talk-liaw-shao-yi-hidden-cost-transparency-how-evaluator-stance-shapes?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214107959</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/0hjav4017xs4a0zzn023y38nrh</x-trumba:ealink>
+			<category>2026/11/23 (Mon)</category>
+			<pubDate>23 Nov 2026 06:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214107959</guid>
+			<xCal:summary>The Hidden Cost of Transparency: How Evaluator Stance Shapes Feedback Responses among Individual Platform Participants</xCal:summary>
+			<xCal:location>Meeting room 4.4, Level 4. School of Computing and Information Systems 1, 
+Singapore Management University, 80 Stamford Road, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-23T06:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-23T14:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, November 23, 2026, 2 - 2:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-23T06:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-23T14:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Platforms increasingly reveal who evaluated a contribution and with what stance, but little is known about how this transparency shapes recipients, who often decide for themselves whether to act on feedback. We distinguish feedback content from the evaluative signal and examine how an evaluator's revealed stance shapes recipients' responses to feedback using two field studies. The first, on an online healthcare platform, finds that evaluative stance matters: physicians improve service performance after receiving positive patient reviews, whereas negative reviews produce no significant improvement. The second isolates the effect of evaluator stance on a crowdsourcing platform where voting shifted from anonymous to attributable while substantive feedback remained unchanged. Once evaluators’ stances become visible, ideators become less likely to incorporate suggestions from detractors, while incorporation of suggestions from supporters, non-voters, and ideators themselves remains unaffected. These findings show that negative evaluative signals can weaken receptiveness to substantive feedback, highlighting an important hidden cost of platform transparency.
+
+This is a Pre-Conference talk for 2026 Pre-ICIS SIGDSA Symposium (SIGDSA 2026): https://preicis.sigdsa.org/.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/214107959</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Pre-Conference Talk by LIAW Shao Yi</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgCYVot3ReQaVA60yuZmCnIM.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminar@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-07/shaoyi-liaw-2022.jpg" width="100" height="120"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;LIAW Shao Yi&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;LIAW Shao Yi is a Ph.D. candidate in Information Systems, supervised by Prof. TANG Qian. Her general research interests are in product and human innovation with an emphasis on how individuals generate, evaluate, and refine ideas on digital platforms.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UM09YNlY1V0k4M0dENjdNQ1UwT1VMU0dXTy4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UOEVNQUhPRERNNVBYNDhGUldOVU5HQ0RXVC4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UOEVNQUhPRERNNVBYNDhGUldOVU5HQ0RXVC4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/pre-conference-talk-liaw-shao-yi-hidden-cost-transparency-how-evaluator-stance-shapes?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Should we balance? A preliminary study into the maintainability of formal specifications as Linux kernel source code evolves</title>
+			<description>Meeting Room 4-4, Level 4. SMU SCIS 1, Singapore 178902 
+Monday, November 23, 2026, 5 - 6pm 
+
+Should we balance? A preliminary study into the maintainability of formal specifications as Linux kernel source code evolves
+
+Today there is a renewed interest in formal verification of software, in part to thoroughly check that AI-generated code does what it was intended to do, and in part in recognition that critical code bases are becoming increasingly complex and a better understanding of their behavior is needed.  Still, verifying a single code instance is not sufficient.  It is also necessary to ensure that the code remains verifiable as it evolves. In this talk, we consider the latter problem in the context of a function used in the Linux kernel task scheduler.  We find that simple changes in the code require only minor adjustments to the specifications and the verification process.  More complex changes, however, can trigger situations that challenge the underlying SMT solvers used to make verification tractable.  But we find that code inducing such challenging situations may also harbor bugs. The talk is based on the joint work with Keisuke Nishimura and Jean-Pierre Lozi presented at SAS 2024. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/research-seminar-julia-lawall-should-we-balance-preliminary-study-maintainability-formal?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212729746</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/ctw4642hgeaapp940m8cc55pur</x-trumba:ealink>
+			<category>2026/11/23 (Mon)</category>
+			<pubDate>23 Nov 2026 09:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212729746</guid>
+			<xCal:summary>Should we balance? A preliminary study into the maintainability of formal specifications as Linux kernel source code evolves</xCal:summary>
+			<xCal:location>Meeting Room 4-4, Level 4. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-23T09:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-23T17:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, November 23, 2026, 5 - 6pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-23T10:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-23T18:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Today there is a renewed interest in formal verification of software, in part to thoroughly check that AI-generated code does what it was intended to do, and in part in recognition that critical code bases are becoming increasingly complex and a better understanding of their behavior is needed.  Still, verifying a single code instance is not sufficient.  It is also necessary to ensure that the code remains verifiable as it evolves. In this talk, we consider the latter problem in the context of a function used in the Linux kernel task scheduler.  We find that simple changes in the code require only minor adjustments to the specifications and the verification process.  More complex changes, however, can trigger situations that challenge the underlying SMT solvers used to make verification tractable.  But we find that code inducing such challenging situations may also harbor bugs. The talk is based on the joint work with Keisuke Nishimura and Jean-Pierre Lozi presented at SAS 2024.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212729746</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Research Seminar by Dr. Julia LAWALL</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgBbH2uT9IrSOn-X1j7XzIXS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2026-10/julia-lawall.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Julia LAWALL&lt;/strong&gt;&lt;/b&gt;
+Senior Research Scientist
+Inria Paris&lt;hr /&gt;Julia LAWALL received the Ph.D. degree in 1994 from the Indiana University. She has been a senior research scientist at Inria since 2011 and head of the Whisper team since 2021. Previously, she was an Associate Professor at the University of Copenhagen. Her research interests are in the area of improving the quality of infrastructure software, using a variety of approaches including program analysis, program transformation, and software verification. She develops the tool Coccinelle that is extensively used in the development of the Linux kernel and she has over 2000 patches in the Linux kernel based on this work.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNDc4SzVWRFRRVThaS0NNWTZFSjBKQkIwVS4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTZjdnq9jGdxNu5Yl7qPLUetUQk84RFRZR1I5TlZFMDNGNFNCT1JDVVFPTi4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTZjdnq9jGdxNu5Yl7qPLUetUQk84RFRZR1I5TlZFMDNGNFNCT1JDVVFPTi4u&amp;route=shorturl</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/research-seminar-julia-lawall-should-we-balance-preliminary-study-maintainability-formal?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>SCIS Industry Day 2026</title>
+			<description>Ngee Ann Kongsi Auditorium, SMU School of Accountancy, 60 Stamford Road, Singapore 178900 
+Tuesday, November 24, 2026, 2 - 3pm 
+
+SCIS Industry Day 2026
+
+This event aims to promote bilateral dialogue between industry and SCIS for opportunities and challenges at technology frontiers of mutual interest. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/events/industry-day</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212849231</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/wbj7u1m633yfcnyferwgppagfa</x-trumba:ealink>
+			<category>2026/11/24 (Tue)</category>
+			<pubDate>24 Nov 2026 06:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212849231</guid>
+			<xCal:summary>SCIS Industry Day 2026</xCal:summary>
+			<xCal:location>Ngee Ann Kongsi Auditorium, SMU School of Accountancy, 60 Stamford Road, Singapore 178900</xCal:location>
+			<xCal:dtstart>2026-11-24T06:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-24T14:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, November 24, 2026, 2 - 3pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-24T07:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-24T15:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>This event aims to promote bilateral dialogue between industry and SCIS for opportunities and challenges at technology frontiers of mutual interest.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212849231</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1348" imageHeight="742">https://www.trumba.com/i/DgA3NfKrDMC3aUN%2ApnBOXuof.png</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTRhaonc6j4ZJnclQsZzigPJUNktHSjNPS0ZRNTcxM0lIR1EzNlk2MFJNVi4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTRhaonc6j4ZJnclQsZzigPJUNktHSjNPS0ZRNTcxM0lIR1EzNlk2MFJNVi4u&amp;route=shorturl</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions,Social &amp; Networking,Talks &amp; Forums</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Partners,Professionals,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/events/industry-day</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Innovative Wearable Acoustic Sensing Mechanisms for Robust Human Sensing</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Tuesday, November 24, 2026, 5:45 - 6:45pm 
+
+Innovative Wearable Acoustic Sensing Mechanisms for Robust Human Sensing
+
+Acoustic signals carry information about the human body through the sounds it generates and the changes it introduces to sound propagation. On wearable devices, these interactions provide opportunities to sense physiological activity and biometric characteristics during everyday use. Reliable sensing, however, requires addressing environmental interference, variations in available sound sources, and motion-related changes in sensing conditions. This dissertation investigates how complementary wearable acoustic sensing mechanisms can address these challenges for robust human sensing.
+
+First, BreathPro captures body-generated breathing sounds using in-ear microphones to recognize fine-grained breathing modes during running. It combines in-ear and out-ear recordings to reduce environmental interference. Second, LR-Auth adopts opportunistic listening, exploiting the ear canal’s modulation of existing environmental sounds or music to enable lightweight, implicit user authentication. Finally, the proposed work explores active acoustic probing to support more reliable physiological monitoring during motion. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-hu-changshuo-innovative-wearable-acoustic-sensing-mechanisms?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213688033</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/05mrxcm2b20up44snes2enf5bd</x-trumba:ealink>
+			<category>2026/11/24 (Tue)</category>
+			<pubDate>24 Nov 2026 09:45:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213688033</guid>
+			<xCal:summary>Innovative Wearable Acoustic Sensing Mechanisms for Robust Human Sensing</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-24T09:45:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-24T17:45:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, November 24, 2026, 5:45 - 6:45pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-24T10:45:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-24T18:45:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Acoustic signals carry information about the human body through the sounds it generates and the changes it introduces to sound propagation. On wearable devices, these interactions provide opportunities to sense physiological activity and biometric characteristics during everyday use. Reliable sensing, however, requires addressing environmental interference, variations in available sound sources, and motion-related changes in sensing conditions. This dissertation investigates how complementary wearable acoustic sensing mechanisms can address these challenges for robust human sensing.
+
+First, BreathPro captures body-generated breathing sounds using in-ear microphones to recognize fine-grained breathing modes during running. It combines in-ear and out-ear recordings to reduce environmental interference. Second, LR-Auth adopts opportunistic listening, exploiting the ear canal’s modulation of existing environmental sounds or music to enable lightweight, implicit user authentication. Finally, the proposed work explores active acoustic probing to support more reliable physiological monitoring during motion.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/213688033</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Proposal by HU Changshuo</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgAFANwgRJwf1jWQYBh7fM-Y.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-12/cs-hu-2023.jpg"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;HU Changshuo&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;Changshuo HU is a Ph.D. candidate in Computer Science at Singapore Management University, supervised by Professor Archan MISRA and working closely with Professor Dong MA at the University of Cambridge. His research focuses on mobile computing and pervasive sensing, particularly wearable acoustic sensing for physiological monitoring and user authentication. He explores how body-generated sounds, existing acoustic sources, and active probing can support reliable human sensing in everyday settings.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTacjffrphqhDrJfv1DjxSmNUNlBaSUY0NEpNQTYxVkpIVVpYTFZKNzNHNi4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UQklYSzQ3SzVGSThaMVM2S1QwTVRWOTdLNS4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UQklYSzQ3SzVGSThaMVM2S1QwTVRWOTdLNS4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-hu-changshuo-innovative-wearable-acoustic-sensing-mechanisms?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Towards Operationalizing Technical AI Governance</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Wednesday, November 25, 2026, 9 - 10am 
+
+Towards Operationalizing Technical AI Governance
+
+Generative and agentic AI systems are being deployed faster than the rules meant to govern them. Regulations, standards and government frameworks increasingly say what these systems should achieve: robustness, fairness, security across the AI supply chain, and meaningful human oversight. They rarely say how to turn those expectations into technical requirements, controls and evidence that can be checked in practice. This dissertation proposal addresses that gap. It argues that governance expectations must be translated into technical properties that fit the deployment context and can be traced back to the requirements they come from. These properties should be grounded in where risks arise in real systems and in how organizations actually encounter and control them.
+
+The proposal develops this argument in stages. It first establishes what governance instruments actually expect of generative AI, by comparing government frameworks across regions. It then traces where security and safety risks originate in real systems, mapping threats to specific components of the large language model supply chain. This work informed Singapore’s Technical Reference TR 147:2026. Next, it examines how enterprises deploying agentic AI encounter and control these risks in practice. It finds that current safeguards focus on constraining agents rather than on assuring, containing and recovering from their actions, and that existing guidance is too high-level to apply directly. It also shows that deployment context should shape how systems are assessed, so that the evidence required scales with the risk of the use case. The proposed final study brings these threads together. It turns guidance clauses into testable properties and executable test cases for agentic systems, starting with the insurance sector. Overall, the work moves technical AI governance from stating what is expected towards producing evidence of whether it is met. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-jose-luis-luna-campoverde-towards-operationalizing-technical?newsletter=</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213689933</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/sehnx6gwhcxkk64jr77m3u4tf8</x-trumba:ealink>
+			<category>2026/11/25 (Wed)</category>
+			<pubDate>25 Nov 2026 01:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213689933</guid>
+			<xCal:summary>Towards Operationalizing Technical AI Governance</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-25T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-25T09:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, November 25, 2026, 9 - 10am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-25T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-25T10:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Generative and agentic AI systems are being deployed faster than the rules meant to govern them. Regulations, standards and government frameworks increasingly say what these systems should achieve: robustness, fairness, security across the AI supply chain, and meaningful human oversight. They rarely say how to turn those expectations into technical requirements, controls and evidence that can be checked in practice. This dissertation proposal addresses that gap. It argues that governance expectations must be translated into technical properties that fit the deployment context and can be traced back to the requirements they come from. These properties should be grounded in where risks arise in real systems and in how organizations actually encounter and control them.
+
+The proposal develops this argument in stages. It first establishes what governance instruments actually expect of generative AI, by comparing government frameworks across regions. It then traces where security and safety risks originate in real systems, mapping threats to specific components of the large language model supply chain. This work informed Singapore’s Technical Reference TR 147:2026. Next, it examines how enterprises deploying agentic AI encounter and control these risks in practice. It finds that current safeguards focus on constraining agents rather than on assuring, containing and recovering from their actions, and that existing guidance is too high-level to apply directly. It also shows that deployment context should shape how systems are assessed, so that the evidence required scales with the risk of the use case. The proposed final study brings these threads together. It turns guidance clauses into testable properties and executable test cases for agentic systems, starting with the insurance sector. Overall, the work moves technical AI governance from stating what is expected towards producing evidence of whether it is met.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/213689933</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Proposal by Jose Luis LUNA CAMPOVERDE</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgAFANwgRJwf1jWQYBh7fM-Y.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-12/joseluis-lc-2023.jpg"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Jose Luis LUNA CAMPOVERDE&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;Jose Luis LUNA CAMPOVERDE is a PhD candidate at the School of Computing and Information Systems, Singapore Management University, under the supervision of Assistant Professor Xiaofei XIE. Jose’s research is in technical AI governance, focusing on how AI regulatory and standards requirements can be translated into technical practice for generative and agentic AI systems. In addition to his academic research, he has contributed to national AI standardization efforts, including his role as co-convener for Singapore’s TR 147:2026 on cybersecurity practices for LLM applications.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTacjffrphqhDrJfv1DjxSmNUNlBaSUY0NEpNQTYxVkpIVVpYTFZKNzNHNi4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UM1k0RUlNUUtUSlNKQkI4RUtBWE5DMEY5RS4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UM1k0RUlNUUtUSlNKQkI4RUtBWE5DMEY5RS4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-jose-luis-luna-campoverde-towards-operationalizing-technical?newsletter=</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Reinforcement Learning Methods for Safety-Aware Decision-Making</title>
+			<description>Meeting room 4.4, Level 4. SMU SCIS 1, Singapore 178902 
+Wednesday, November 25, 2026, 2 - 3pm 
+
+Reinforcement Learning Methods for Safety-Aware Decision-Making
+
+Reinforcement learning (RL) has achieved strong results across robotics, algorithm discovery, and classical games. However, deploying RL in safety-critical domains requires policies that satisfy safety constraints in addition to maximizing reward. This thesis addresses three settings for enforcing such requirements: action constraints, which restrict the set of admissible actions at every step; cumulative cost constraints, which bound the expected cost accumulated over a trajectory; and state-wise constraints, which require every state the agent visits to be safe. Projection-based approaches to action constraints can be computationally expensive and hinder policy learning when proposed actions fall far outside the feasible action space. To address action constraints, we present FlowPG, which learns a mapping to the feasible action space, reducing reliance on computationally expensive action corrections. However, a key challenge in FlowPG is the generation of feasible samples for complex constraints. We therefore present CV-Flow, which trains the flow model using a constraint violation signal. For cumulative cost constraints, we present Budget-Conditioned Reachability RL (BCRL), which defines a reachability set conditioned on the remaining safety budget. This formulation decouples reward maximization from the cumulative cost constraint, resulting in non-adversarial optimization. For state-wise constraints, we learn a safety value function from offline data to estimate the set of state-action pairs from which the agent can remain safe indefinitely. This accounts for actions that appear safe immediately but can lead to unavoidable future violations. We provide theoretical analysis and empirical evaluation on a diverse set of tasks, including continuous control, offline safe-RL, and maritime navigation. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-brahmanage-janaka-chathuranga-thilakarathna-reinforcement?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214108145</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/ss6ng7uxvu277u018nvu4xa6v1</x-trumba:ealink>
+			<category>2026/11/25 (Wed)</category>
+			<pubDate>25 Nov 2026 06:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214108145</guid>
+			<xCal:summary>Reinforcement Learning Methods for Safety-Aware Decision-Making</xCal:summary>
+			<xCal:location>Meeting room 4.4, Level 4. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-25T06:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-25T14:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, November 25, 2026, 2 - 3pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-25T07:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-25T15:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reinforcement learning (RL) has achieved strong results across robotics, algorithm discovery, and classical games. However, deploying RL in safety-critical domains requires policies that satisfy safety constraints in addition to maximizing reward. This thesis addresses three settings for enforcing such requirements: action constraints, which restrict the set of admissible actions at every step; cumulative cost constraints, which bound the expected cost accumulated over a trajectory; and state-wise constraints, which require every state the agent visits to be safe. Projection-based approaches to action constraints can be computationally expensive and hinder policy learning when proposed actions fall far outside the feasible action space. To address action constraints, we present FlowPG, which learns a mapping to the feasible action space, reducing reliance on computationally expensive action corrections. However, a key challenge in FlowPG is the generation of feasible samples for complex constraints. We therefore present CV-Flow, which trains the flow model using a constraint violation signal. For cumulative cost constraints, we present Budget-Conditioned Reachability RL (BCRL), which defines a reachability set conditioned on the remaining safety budget. This formulation decouples reward maximization from the cumulative cost constraint, resulting in non-adversarial optimization. For state-wise constraints, we learn a safety value function from offline data to estimate the set of state-action pairs from which the agent can remain safe indefinitely. This accounts for actions that appear safe immediately but can lead to unavoidable future violations. We provide theoretical analysis and empirical evaluation on a diverse set of tasks, including continuous control, offline safe-RL, and maritime navigation.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/214108145</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Defense by BRAHMANAGE Janaka Chathuranga Thilakarathna</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgCgLWgt2HvZj3rApyNgMUxd.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-07/janakat-2022.jpg" width="100" height="120"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;BRAHMANAGE Janaka Chathuranga Thilakarathna&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;BRAHMANAGE Janaka is a fourth-year PhD candidate in Computer Science at the School of Computing and Information Systems, Singapore Management University (SMU), advised by Prof. Akshat Kumar. He holds a B.Sc. Eng (Hons.) in Computer Science &amp;amp; Engineering with First Class Honours from the University of Moratuwa, Sri Lanka. His research focuses on safe reinforcement learning and imitation learning, with publications at NeurIPS, AAAI, IJCAI, ICAPS and AAMAS. He received the SMU Presidential Doctoral Fellowship (2024–2026) and was named to the SCIS Dean’s List (AY2026–27). He recently completed an internship at Huawei Singapore Research Centre, working on agentic search and tool-use agents for Celia. Before his PhD, he worked as a Research Engineer at SMU on transport optimisation and data mining. He also co-founded two tech startups in Sri Lanka. Outside research, he enjoys running, cycling and playing the ukulele.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9URVhDNTBWRVJNVEE2VkJaTkdTSzQxUVBGNy4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UQlM1NUNDQTZDWEY3MVE3UkFLMkRZUlZJTS4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UQlM1NUNDQTZDWEY3MVE3UkFLMkRZUlZJTS4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-brahmanage-janaka-chathuranga-thilakarathna-reinforcement?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Optimization under Choice and Behavioral Response Models: Algorithms and Performance Guarantees</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Wednesday, November 25, 2026, 3:30 - 4:30pm 
+
+Optimization under Choice and Behavioral Response Models: Algorithms and Performance Guarantees
+
+Retailers deciding which products to offer and at what prices, and defenders allocating limited protection against boundedly rational attackers, must anticipate how people respond to their decisions. Logit-family choice models describe these responses well, but building them into optimization produces nonconvex and often NP-hard problems, which practice usually tackles with heuristics or local search that give no measure of the remaining error. This dissertation proposal shows that the difficulty has an identifiable structure, and that exposing it yields algorithms with provable performance guarantees. It answers three research questions, one for each kind of decision. Discrete assortment decisions admit exact methods and approximation guarantees. For continuous decisions such as pricing and security allocation, and for estimating the choice models themselves, the hard part can be confined to a few customer segments, attacker types, nests, or model parameters, so solutions can be certified as globally optimal within a stated tolerance. Decisions that mix binary and continuous variables admit approximations with an explicit bound on the loss. Eight manuscripts support the proposal, and their experiments show that the methods certify instances that standard solvers leave open. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-pham-hoang-giang-optimization-under-choice-and-behavioral?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213383913</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/s9y2y7238btjr64bjktbz57g6a</x-trumba:ealink>
+			<category>2026/11/25 (Wed)</category>
+			<pubDate>25 Nov 2026 07:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213383913</guid>
+			<xCal:summary>Optimization under Choice and Behavioral Response Models: Algorithms and Performance Guarantees</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-25T07:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-25T15:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, November 25, 2026, 3:30 - 4:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-25T08:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-25T16:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Retailers deciding which products to offer and at what prices, and defenders allocating limited protection against boundedly rational attackers, must anticipate how people respond to their decisions. Logit-family choice models describe these responses well, but building them into optimization produces nonconvex and often NP-hard problems, which practice usually tackles with heuristics or local search that give no measure of the remaining error. This dissertation proposal shows that the difficulty has an identifiable structure, and that exposing it yields algorithms with provable performance guarantees. It answers three research questions, one for each kind of decision. Discrete assortment decisions admit exact methods and approximation guarantees. For continuous decisions such as pricing and security allocation, and for estimating the choice models themselves, the hard part can be confined to a few customer segments, attacker types, nests, or model parameters, so solutions can be certified as globally optimal within a stated tolerance. Decisions that mix binary and continuous variables admit approximations with an explicit bound on the loss. Eight manuscripts support the proposal, and their experiments show that the methods certify instances that standard solvers leave open.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/213383913</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Proposal by PHAM Hoang Giang</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgAFANwgRJwf1jWQYBh7fM-Y.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-12/hg-pham-2023.jpg" width="100" height="120"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;PHAM Hoang Giang&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;PHAM Hoang Giang is a PhD candidate in Computer Science at the School of Computing and Information Systems, Singapore Management University, advised by Assistant Professor MAI Anh Tien. Giang's research is in decision making and optimization, with a focus on optimization under discrete choice and behavioral response models and its applications to assortment and pricing, facility location, security games, and the estimation of choice models. This work has appeared in the European Journal of Operational Research and the Proceedings of IJCAI 2026.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UN0E2TU9PRzVCN1pONVhZMERVSkFNN0lJVi4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-pham-hoang-giang-optimization-under-choice-and-behavioral?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems</title>
+			<description>Meeting room 4.4, Level 4. SMU SCIS, Singapore 178902 
+Thursday, November 26, 2026, 4 - 4:15pm 
+
+Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems
+
+Traditional neural solvers for solving vehicle routing problems (VRPs) often suffer from limited solution diversity, motivating the development of Generative Flow Network (GFlowNet)-based models. However, the effectiveness of these models is frequently constrained by insufficient flow expansion in high-reward regions, limiting their ability to distribute probability across promising solution routes. The deeper exploration could yield superior results. Diffusion models, in contrast, provide stronger structural guidance for exploration. These two paradigms are naturally complementary: GFlowNet can supply edge-level signals for diffusion to embed, while diffusion can guide broader exploration. Leveraging this synergy, we propose Diffusion-Enhanced GFlowNet (DEG), a novel framework that integrates GFlowNet with a diffusion model to encourage richer flow expansion toward high-reward regions and derive higher-quality solutions. Specifically, DEG exploits GFlowNet’s inherent diversity to generate edge-specific backward signals, applies the stochastic noise schedule of diffusion to perturb these signals, and then denoises them within the GFlowNet paradigm. To further improve scalability, we introduce a specialized decoder capable of dynamically adapting to diverse problem scales. Extensive experimental evaluations on synthetic and real-world datasets, including instances with up to 10,000 nodes, demonstrate that DEG consistently achieves favorable performance compared to baseline methods. The code is available at https://github.com/ZHANG-NI/DEG.
+
+This is a Pre-Conference talk for The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026): https://neurips.cc/. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/pre-conference-talk-zhang-ni-diffusion-enhanced-gflownet-solving-vehicle-routing?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213731077</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/8eagmvjkywu5ry5p6w9wykfa1d</x-trumba:ealink>
+			<category>2026/11/26 (Thu)</category>
+			<pubDate>26 Nov 2026 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213731077</guid>
+			<xCal:summary>Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems</xCal:summary>
+			<xCal:location>Meeting room 4.4, Level 4. SMU SCIS, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-26T08:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-26T16:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, November 26, 2026, 4 - 4:15pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-26T08:15:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-26T16:15:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Traditional neural solvers for solving vehicle routing problems (VRPs) often suffer from limited solution diversity, motivating the development of Generative Flow Network (GFlowNet)-based models. However, the effectiveness of these models is frequently constrained by insufficient flow expansion in high-reward regions, limiting their ability to distribute probability across promising solution routes. The deeper exploration could yield superior results. Diffusion models, in contrast, provide stronger structural guidance for exploration. These two paradigms are naturally complementary: GFlowNet can supply edge-level signals for diffusion to embed, while diffusion can guide broader exploration. Leveraging this synergy, we propose Diffusion-Enhanced GFlowNet (DEG), a novel framework that integrates GFlowNet with a diffusion model to encourage richer flow expansion toward high-reward regions and derive higher-quality solutions. Specifically, DEG exploits GFlowNet’s inherent diversity to generate edge-specific backward signals, applies the stochastic noise schedule of diffusion to perturb these signals, and then denoises them within the GFlowNet paradigm. To further improve scalability, we introduce a specialized decoder capable of dynamically adapting to diverse problem scales. Extensive experimental evaluations on synthetic and real-world datasets, including instances with up to 10,000 nodes, demonstrate that DEG consistently achieves favorable performance compared to baseline methods. The code is available at https://github.com/ZHANG-NI/DEG.
+
+This is a Pre-Conference talk for The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026): https://neurips.cc/.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/213731077</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Pre-Conference Talk by ZHANG Ni</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgCYVot3ReQaVA60yuZmCnIM.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminar@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2025-11/ni-zhang-2025.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;ZHANG Ni&lt;/strong&gt;&lt;/b&gt;
+PhD Student
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;Ni ZHANG is a PhD student in Computer Science at the School of Computing and Information Systems, Singapore Management University, advised by Professor Zhiguang CAO. Her research focuses on neural combinatorial optimization, particularly learning-based methods for solving vehicle routing problems and other combinatorial optimization problems. Her work explores generative models, reinforcement learning, and large language models to develop efficient and scalable optimization algorithms.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9URFhQSlFLVUREMjI4QjNMNklHT0tEQzRIVS4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UOE9UWjdVMERaSEY4MDVWNFpFQUVLSEZJQy4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UOE9UWjdVMERaSEY4MDVWNFpFQUVLSEZJQy4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/pre-conference-talk-zhang-ni-diffusion-enhanced-gflownet-solving-vehicle-routing?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Beyond Biosignals: Earables and the Future of Physiological Intelligence</title>
+			<description>Meeting Room 4-4, Level 4. SMU SCIS 1, Singapore 178902 
+Friday, November 27, 2026, 10:30 - 11:30am 
+
+Beyond Biosignals: Earables and the Future of Physiological Intelligence
+
+We can measure the human body continuously, but how much do we truly understand about its physiology? Wearables generate unprecedented volumes of biosignals, yet these remain incomplete observations of the biological processes governing human health. The challenge is no longer simply collecting data, but extracting meaningful physiological understanding.
+
+In this talk, I will introduce Physiological Intelligence: a vision combining next-generation earable sensing with foundation models. Drawing on a decade of research from eSense to OmniBuds, I will present advances in multimodal cardiovascular and respiratory monitoring, including applications in hypertension and COPD.
+
+My central thesis is that physiological AI is a representation problem, not merely a scaling problem. Predicting biomarkers accurately does not necessarily mean understanding the biology that generates them. Progress requires representations that capture physiological dynamics, preserve biological relationships and generalise across individuals and conditions. I will challenge us to rethink what physiological AI should learn, and explore what it will take to move from measuring the body to truly understanding it. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/research-seminar-fahim-kawsar-beyond-biosignals-earables-and-future-physiological?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214108466</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/m6n08n19ycsnxvyn9e4bsm2g0y</x-trumba:ealink>
+			<category>2026/11/27 (Fri)</category>
+			<pubDate>27 Nov 2026 02:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214108466</guid>
+			<xCal:summary>Beyond Biosignals: Earables and the Future of Physiological Intelligence</xCal:summary>
+			<xCal:location>Meeting Room 4-4, Level 4. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-27T02:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-27T10:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, November 27, 2026, 10:30 - 11:30am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-27T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-27T11:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>We can measure the human body continuously, but how much do we truly understand about its physiology? Wearables generate unprecedented volumes of biosignals, yet these remain incomplete observations of the biological processes governing human health. The challenge is no longer simply collecting data, but extracting meaningful physiological understanding.
+
+In this talk, I will introduce Physiological Intelligence: a vision combining next-generation earable sensing with foundation models. Drawing on a decade of research from eSense to OmniBuds, I will present advances in multimodal cardiovascular and respiratory monitoring, including applications in hypertension and COPD.
+
+My central thesis is that physiological AI is a representation problem, not merely a scaling problem. Predicting biomarkers accurately does not necessarily mean understanding the biology that generates them. Progress requires representations that capture physiological dynamics, preserve biological relationships and generalise across individuals and conditions. I will challenge us to rethink what physiological AI should learn, and explore what it will take to move from measuring the body to truly understanding it.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/214108466</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Research Seminar by Fahim KAWSAR</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgBbH2uT9IrSOn-X1j7XzIXS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2026-11/fahim.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Fahim KAWSAR&lt;/strong&gt;&lt;/b&gt;
+Professor of Mobile Systems
+School of Computing Science
+University of Glasgow&lt;hr /&gt;Fahim KAWSAR is Professor of Mobile Systems at the University of Glasgow and Founder and Chief Technology Officer of&amp;nbsp;&lt;a href="https://www.omnibuds.tech/" dir="ltr"&gt;OmniBuds&lt;/a&gt;, a medical technology company developing ear-worn sensing and AI systems for cardiovascular health. He is also Founder and Chief Advisor of&amp;nbsp;&lt;a href="https://ichizero.ai/" dir="ltr"&gt;IchiZero&lt;/a&gt;, a Finnish educational technology company developing Bella, a physical AI learning platform for children.&amp;nbsp;
+
+He spent 15 years at Nokia Bell Labs, where he was a Bell Labs Fellow and Director of Device Research. He founded and led the Cambridge Research Lab, advancing research in human-centred computing and intelligent systems. Over the past two decades, his work has contributed to advances in the Internet of Things, mobile sensing and on-device AI, particularly Earable Computing, a field he has helped shape.
+
+Fahim has co-authored over 200 peer-reviewed publications and holds more than 50 patents. His work spans fundamental research and its translation into technologies with real-world impact. As Editor-in-Chief of&amp;nbsp;&lt;i&gt;&lt;em&gt;IEEE Pervasive Computing&lt;/em&gt;&lt;/i&gt;&amp;nbsp;and an international keynote speaker, he continues to help shape research in embedded intelligence, pervasive AI and intelligent health technologies.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNTlKUEFSU0lMTzZaWjhaT1c1U1k1MExDUC4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNFg2NFBZSllNQkZJUUlMT1dKNllVN1VDVy4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNFg2NFBZSllNQkZJUUlMT1dKNllVN1VDVy4u&amp;route=shorturl</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/research-seminar-fahim-kawsar-beyond-biosignals-earables-and-future-physiological?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Towards Memory-Augmented and Value-Aligned Language Agents</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Friday, November 27, 2026, 1 - 2pm 
+
+Towards Memory-Augmented and Value-Aligned Language Agents
+
+Large language models (LLMs) have enabled the development of intelligent agents that interact with users over extended periods. However, such agents face persistent challenges in retaining past experiences, reasoning about temporal relationships, and ensuring that their behaviour remains aligned with human values. Existing approaches often rely on limited context windows, unstructured retrieval, or implicit alignment mechanisms, making it difficult to support reliable long-term interaction and accountable decision-making.
+
+This dissertation investigates memory-augmented and value-aligned language agents through three complementary research directions. First, it develops ARTEM, a biologically inspired episodic memory framework that enables agents to encode and retrieve events using temporal, spatial, entity, and content information. Second, it introduces VALVE, a runtime governance framework that represents human values through an explicit hierarchy and enforces them over recalled memories and generated responses. Third, it proposes PBTG, a probabilistic temporal reasoning framework that integrates fragmented and uncertain temporal evidence into a coherent belief state.
+
+The research evaluates these approaches on episodic memory, value alignment, and temporal reasoning benchmarks, examining their effectiveness and limitations. Ongoing work further investigates persistent temporal belief representations and adaptive value specifications through i-VALVE. Collectively, the dissertation aims to advance the development of language agents capable of remembering past experiences, reasoning about events over time, and acting in accordance with explicit and accountable human values. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-cassandra-tan-hui-ming-towards-memory-augmented-and-value?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213690268</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/sfpm7v0smz0jt3zyhutfrhes68</x-trumba:ealink>
+			<category>2026/11/27 (Fri)</category>
+			<pubDate>27 Nov 2026 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213690268</guid>
+			<xCal:summary>Towards Memory-Augmented and Value-Aligned Language Agents</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-27T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-27T13:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, November 27, 2026, 1 - 2pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-27T06:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-27T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Large language models (LLMs) have enabled the development of intelligent agents that interact with users over extended periods. However, such agents face persistent challenges in retaining past experiences, reasoning about temporal relationships, and ensuring that their behaviour remains aligned with human values. Existing approaches often rely on limited context windows, unstructured retrieval, or implicit alignment mechanisms, making it difficult to support reliable long-term interaction and accountable decision-making.
+
+This dissertation investigates memory-augmented and value-aligned language agents through three complementary research directions. First, it develops ARTEM, a biologically inspired episodic memory framework that enables agents to encode and retrieve events using temporal, spatial, entity, and content information. Second, it introduces VALVE, a runtime governance framework that represents human values through an explicit hierarchy and enforces them over recalled memories and generated responses. Third, it proposes PBTG, a probabilistic temporal reasoning framework that integrates fragmented and uncertain temporal evidence into a coherent belief state.
+
+The research evaluates these approaches on episodic memory, value alignment, and temporal reasoning benchmarks, examining their effectiveness and limitations. Ongoing work further investigates persistent temporal belief representations and adaptive value specifications through i-VALVE. Collectively, the dissertation aims to advance the development of language agents capable of remembering past experiences, reasoning about events over time, and acting in accordance with explicit and accountable human values.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/213690268</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Proposal by Cassandra TAN Hui Ming</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgAFANwgRJwf1jWQYBh7fM-Y.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-12/hm-tan-2023.jpg"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Cassandra TAN Hui Ming&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;Cassandra TAN Hui Ming is a PhD candidate in Computer Science at the School of Computing and Information Systems, Singapore Management University, under the supervision of Professor TAN Ah Hwee. Her research focuses on memory-augmented language agents, episodic memory, temporal reasoning, and value alignment. Her work investigates the integration of biologically inspired neural models, probabilistic reasoning, and runtime governance mechanisms to improve the reliability and accountability of intelligent agents. Her research on episodic memory for large language model agents, ARTEM, was published at the AAAI Conference on Artificial Intelligence (AAAI 2026).</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UM1k0RUlNUUtUSlNKQkI4RUtBWE5DMEY5RS4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UMDIwV0owVDJNNzZQMkxKS0tYS0g4OFQ4US4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UMDIwV0owVDJNNzZQMkxKS0tYS0g4OFQ4US4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-proposal-cassandra-tan-hui-ming-towards-memory-augmented-and-value?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>SMU: Manila Coffee Session</title>
+			<description>Location will be sent to confirmed attendees 
+Saturday, November 28, 2026, 7:30 - 9:30pm 
+
+SMU: Manila Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214105198</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/8pvwmrup101jye46tfaazp5uye</x-trumba:ealink>
+			<category>2026/11/28 (Sat)</category>
+			<pubDate>28 Nov 2026 11:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214105198</guid>
+			<xCal:summary>SMU: Manila Coffee Session</xCal:summary>
+			<xCal:location>Location will be sent to confirmed attendees</xCal:location>
+			<xCal:dtstart>2026-11-28T11:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-28T19:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, November 28, 2026, 7:30 - 9:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-28T13:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-28T21:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/214105198</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgAm2OlcHIrhuIuusUlXyn5g.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/chrisng-fstn/smuccsmanilanov26" target="_blank"&gt;&lt;a href="https://calendly.com/wkgoh-smu/20261128mnlcs" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://calendly.com/wkgoh-smu/20261128mnlcs</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Advancing Android Security through Arm Virtualization Extension</title>
+			<description>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902 
+Monday, November 30, 2026, 2 - 3pm 
+
+Advancing Android Security through Arm Virtualization Extension
+
+Android malware use UI manipulation, multi-stage payload delivery and malicious native libraries to avoid detection and trick users to perform unintended actions. To protect users, we leverage on hardware virtualization features, such as the protected kernel-based virtual machine (pKVM), to isolate sensitive UI components against a kernel adversary. Second, we use a live thread analysis approach at the binary level, combining symbolic execution with runtime introspection to uncover hidden behaviors during execution. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-ng-ying-tat-advancing-android-security-through-arm?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213690271</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/w2fkmc0bn0vrd97mxw34fkm7bn</x-trumba:ealink>
+			<category>2026/11/30 (Mon)</category>
+			<pubDate>30 Nov 2026 06:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213690271</guid>
+			<xCal:summary>Advancing Android Security through Arm Virtualization Extension</xCal:summary>
+			<xCal:location>Meeting room 5.1, Level 5. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-11-30T06:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-30T14:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, November 30, 2026, 2 - 3pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-30T07:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-30T15:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Android malware use UI manipulation, multi-stage payload delivery and malicious native libraries to avoid detection and trick users to perform unintended actions. To protect users, we leverage on hardware virtualization features, such as the protected kernel-based virtual machine (pKVM), to isolate sensitive UI components against a kernel adversary. Second, we use a live thread analysis approach at the binary level, combining symbolic execution with runtime introspection to uncover hidden behaviors during execution.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/213690271</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">PhD Dissertation Defense by NG Ying Tat</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgCgLWgt2HvZj3rApyNgMUxd.jpeg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-07/yingtat-ng-2021.jpg" width="100" height="120"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;NG Ying Tat&lt;/strong&gt;&lt;/b&gt;
+PhD Candidate
+School of Computing and Information Systems
+Singapore Management University&lt;hr /&gt;NG Ying Tat is a part-time Ph.D. candidate in Computer Science at the School of Computing and Information Systems, Singapore Management University (SMU), under the supervision of Prof DING Xuhua. His research interest is in Android and ARM System Security Assisted by Hardware Features.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UQldDUEE1UU5CQVgxWE1BTVZRU05BQlpGNy4u" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9URVhDNTBWRVJNVEE2VkJaTkdTSzQxUVBGNy4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9URVhDNTBWRVJNVEE2VkJaTkdTSzQxUVBGNy4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-ng-ying-tat-advancing-android-security-through-arm?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>SMU: Hanoi Coffee Session</title>
+			<description>Pullman Hanoi 
+Monday, November 30, 2026, 7 - 9pm 
+
+SMU: Hanoi Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213290694</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/s9a862guhw7az9f9egvzyartbn</x-trumba:ealink>
+			<category>2026/11/30 (Mon)</category>
+			<pubDate>30 Nov 2026 11:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213290694</guid>
+			<xCal:summary>SMU: Hanoi Coffee Session</xCal:summary>
+			<xCal:location>Pullman Hanoi</xCal:location>
+			<xCal:dtstart>2026-11-30T11:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-11-30T19:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, November 30, 2026, 7 - 9pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-11-30T13:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-11-30T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/213290694</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgDiYhYApgRSis8ol%2AwAol6A.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/danielpang-smu/smu-bkk-nov2026" target="_blank"&gt;&lt;a href="https://calendly.com/smupgpplkm/smu-consultation-hanoi-112026" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://calendly.com/smupgpplkm/smu-consultation-hanoi-112026</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Formal models are magic</title>
+			<description>Meeting Room 4-4 Level 4. SMU SCIS 1, Singapore 178902 
+Tuesday, December 1, 2026, 10 - 11am 
+
+Formal models are magic
+
+In this work, we investigate a variant of the Four Glasses Puzzle (FGP) through the lens of formal verification. Although the puzzle appears to be unsolvable at first glance, formal verification enables the discovery of a correct solution. We demonstrate how the model can be constructed and reduced through progressive abstractions, ultimately yielding a concise and comprehensible model that captures all possible puzzle configurations. To ensure computational efficiency, we introduce the Escape Game - an algorithmic construction that eliminates redundant cycles and facilitates strategy synthesis under imperfect information. Finally, by analysing the strategic capabilities of the player, we present a solution to the puzzle. The approach is formally defined and proven correct. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/research-seminar-laure-petrucci-formal-models-are-magic?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212406264</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/sxaz5u29ndy9muvta0m0nm8xcj</x-trumba:ealink>
+			<category>2026/12/01 (Tue)</category>
+			<pubDate>01 Dec 2026 02:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212406264</guid>
+			<xCal:summary>Formal models are magic</xCal:summary>
+			<xCal:location>Meeting Room 4-4 Level 4. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-12-01T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-01T10:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, December 1, 2026, 10 - 11am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-01T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-01T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>In this work, we investigate a variant of the Four Glasses Puzzle (FGP) through the lens of formal verification. Although the puzzle appears to be unsolvable at first glance, formal verification enables the discovery of a correct solution. We demonstrate how the model can be constructed and reduced through progressive abstractions, ultimately yielding a concise and comprehensible model that captures all possible puzzle configurations. To ensure computational efficiency, we introduce the Escape Game - an algorithmic construction that eliminates redundant cycles and facilitates strategy synthesis under imperfect information. Finally, by analysing the strategic capabilities of the player, we present a solution to the puzzle. The approach is formally defined and proven correct.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212406264</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Research Seminar by Laure PETRUCCI</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgBbH2uT9IrSOn-X1j7XzIXS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2026-10/laure-petrucci.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Laure PETRUCCI&lt;/strong&gt;&lt;/b&gt;
+Professor
+University Paris 13&lt;hr /&gt;Laure PETRUCCI obtained her PhD in Computer Science from University Paris 6 in 1991. She then became associate professor in Evry. In 2003, she obtained a Full Professor position at University Paris 13. Her research takes place in the SAFER team of the LIPN laboratory. Her area of expertise is formal specification and verification of concurrent systems so as to guarantee their appropriate behaviour, using automata or Petri nets models, as well as parametric models. In order to tackle the well-known state space explosion problem, the research she develops exploits modularity in the models, proposes distributed approaches, and algorithms for parameter synthesis. In recent works she has tackled strategy synthesis for multi-agent systems, according to different semantics, and proposed novel logics to express properties and model-checking approaches.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNTYwQkVYQVlXSVVKWTVQMVowWkJIRFhOUS4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UNEM0WUdOVUZRV085NUpHSzZIQldGTjhLOS4u" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTejbEKPlArBJhZomj91naG9UNEM0WUdOVUZRV085NUpHSzZIQldGTjhLOS4u</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/research-seminar-laure-petrucci-formal-models-are-magic?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA 2026)</title>
+			<description>SMU School of Economics/School of Computing &amp; Information Systems 2, Level 4, 90 Stamford Road, Singapore 178903 
+Wednesday, December 2 - Friday, December 4, 2026 
+
+The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA 2026)
+
+SETTA 2026 aims to bring together researchers and practitioners in dependable software engineering to advance theories, methods, tools, and practical applications for trustworthy software-intensive systems. The conference will facilitate exchange across formal methods, verification and validation, software testing, program analysis, and emerging AI-enabled systems; promote collaborations between academia and industry; and provide opportunities for early-career researchers and students to engage with international experts. 
+
+More info: www.setta2026.sg…: https://www.setta2026.sg/home</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D212232647</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/07bd9x1088c2ep4dyf8udv644f</x-trumba:ealink>
+			<category>2026/12/02 (Wed)</category>
+			<pubDate>01 Dec 2026 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/212232647</guid>
+			<xCal:summary>The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA 2026)</xCal:summary>
+			<xCal:location>SMU School of Economics/School of Computing &amp; Information Systems 2, Level 4, 90 Stamford Road, Singapore 178903</xCal:location>
+			<xCal:dtstart>2026-12-01T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-02T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, December 2 - Friday, December 4, 2026</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-04T16:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-05T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>SETTA 2026 aims to bring together researchers and practitioners in dependable software engineering to advance theories, methods, tools, and practical applications for trustworthy software-intensive systems. The conference will facilitate exchange across formal methods, verification and validation, software testing, program analysis, and emerging AI-enabled systems; promote collaborations between academia and industry; and provide opportunities for early-career researchers and students to engage with international experts.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/212232647</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1510" imageHeight="662">https://www.trumba.com/i/DgBk8Kg-P78a2pQ6V-ss0Sxu.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://www.setta2026.sg/home/registration" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://www.setta2026.sg/home/registration</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Conferences &amp; Symposiums</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://www.setta2026.sg/home</x-trumba:weblink>
+		</item>
+		<item>
+			<title>SMU Postgraduate Coffee Session in December</title>
+			<description>Zoom or In-person
+Location will be sent to confirmed attendees 
+Wednesday, December 2 - Wednesday, December 23, 2026 
+
+SMU Postgraduate Coffee Session in December</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214067562</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/w4famub027pk9ffb69tz8v72pf</x-trumba:ealink>
+			<category>2026/12/02 (Wed)</category>
+			<pubDate>01 Dec 2026 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214067562</guid>
+			<xCal:summary>SMU Postgraduate Coffee Session in December</xCal:summary>
+			<xCal:location>Zoom or In-person
+Location will be sent to confirmed attendees</xCal:location>
+			<xCal:dtstart>2026-12-01T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-02T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, December 2 - Wednesday, December 23, 2026</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-23T16:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-24T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/214067562</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgATo-SzjFm5tpIzKbD9k5se.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/chrisng-fstn/smuccsmanilanov26" target="_blank"&gt;&lt;a href="https://pgpp.smu.edu.sg/acton/media/47220/cs-lp-coffeesessionsg-202612?utm_source=web&amp;amp;utm_medium=social&amp;amp;utm_campaign=cs_mba_sg_20261201&amp;amp;utm_content=events-calendar_link_register" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://pgpp.smu.edu.sg/acton/media/47220/cs-lp-coffeesessionsg-202612?utm_source=web&amp;utm_medium=social&amp;utm_campaign=cs_mba_sg_20261201&amp;utm_content=events-calendar_link_register</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">SMU Masters Coffee Sessions December 2026&lt;ul&gt;&lt;li value="1" dir="ltr"&gt;&lt;b&gt;&lt;strong&gt;When:&lt;/strong&gt;&lt;/b&gt; Every Monday, Wednesday, and Friday from 2 to 23 December 2026&lt;/li&gt;&lt;li value="2" dir="ltr"&gt;&lt;b&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/b&gt; 10.00am–1.00pm and 3.00pm–6.00pm (Singapore time)&lt;/li&gt;&lt;li value="3" dir="ltr"&gt;&lt;b&gt;&lt;strong&gt;Format:&lt;/strong&gt;&lt;/b&gt; 30 minutes, one-to-one, on campus or online&lt;/li&gt;&lt;/ul&gt;Choosing the right master's programme is a big step. Book a 30-minute one-to-one chat with our SMU team to find the SMU Masters programme that fits your career goals, get feedback on your profile, and ask about admissions, scholarships, and life in Singapore.
+&amp;nbsp;
+Slots are limited. We will email the meeting point or Zoom link to confirmed attendees.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>SMU: Ho Chi Minh Coffee Session</title>
+			<description>Pullman Saigon Centre 
+Wednesday, December 2, 2026, 7 - 9pm 
+
+SMU: Ho Chi Minh Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213290696</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/0jway39jcj3rtyrhp21387pgm4</x-trumba:ealink>
+			<category>2026/12/02 (Wed)</category>
+			<pubDate>02 Dec 2026 11:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213290696</guid>
+			<xCal:summary>SMU: Ho Chi Minh Coffee Session</xCal:summary>
+			<xCal:location>Pullman Saigon Centre</xCal:location>
+			<xCal:dtstart>2026-12-02T11:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-02T19:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, December 2, 2026, 7 - 9pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-02T13:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-02T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/213290696</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgDiYhYApgRSis8ol%2AwAol6A.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/smupgpplkm/smu-consultation-hanoi-112026" target="_blank"&gt;&lt;a href="https://calendly.com/smupgpplkm/smu-consultation-hochiminh-122026" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://calendly.com/smupgpplkm/smu-consultation-hochiminh-122026</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Process Discovery and Optimization from Relational Data</title>
+			<description>Thursday, December 3, 2026, 10 - 11am 
+
+Process Discovery and Optimization from Relational Data</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214105288</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/wehnycm96wchdjxeyce5pjfvg6</x-trumba:ealink>
+			<category>2026/12/03 (Thu)</category>
+			<pubDate>03 Dec 2026 02:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214105288</guid>
+			<xCal:summary>Process Discovery and Optimization from Relational Data</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2026-12-03T02:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-03T10:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, December 3, 2026, 10 - 11am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-03T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-03T11:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/214105288</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="600" imageHeight="337">https://www.trumba.com/i/DgC2W2ZrIcv%2AtjJuexcfmJcH.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">SCIS EngD 2026 Dissertation Proposal by Joel Lim</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://smu-sg.zoom.us/meeting/register/P7hQDmGZTQqxexq1dSmYyg" target="_blank"&gt;&lt;a href="https://smu-sg.zoom.us/meeting/register/P7hQDmGZTQqxexq1dSmYyg" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2023-07/joellim-2022.jpg"&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/b&gt;
+Organizations generate large amounts of operational data across heterogeneous systems and relational databases. Although process mining provides established techniques for discovering and analyzing processes from event data, obtaining suitable process representations from relational databases remains challenging, particularly when process relationships, event sequences, and execution paths are not explicitly encoded in the underlying data.
+This dissertation investigates methods for deriving process knowledge directly from relational data with reduced reliance on manually defined process structures and data mappings. The first part focuses on identifying relationships across database tables and reconstructing process sequences from the resulting data dependencies and temporal information. The second extends this foundation through process routing discovery, examining how individual records traverse different process paths and identifying factors associated with particular routes or outcomes. The final part builds on the discovered process structures and routing information to investigate process optimization, with the aim of identifying inefficiencies, bottlenecks, and opportunities for improvement.
+Together, the research presents an end-to-end approach for transforming fragmented relational data into process representations and actionable process insights, supporting organizations in understanding how their operations are executed, how different process paths emerge, and where opportunities for improvement exist.&lt;hr /&gt;&lt;b&gt;&lt;strong&gt;Speaker Biography&lt;/strong&gt;&lt;/b&gt;
+Joel LIM is pursuing his engineering doctoral research at Singapore Management University in the area of process mining, discovery and optimization. His research focuses on enabling organizations to automatically uncover processes from relational data, understand how data and activities are connected, and ultimately identify opportunities for process optimization. His work bridges academic research with real-world business applications, particularly in complex financial and operational environments.&amp;nbsp;</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Alumni,Current Student,Incoming Students,Prospective Student,SMU Faculty &amp; Staff</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Doctor of Engineering|Infosessions</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>A Picture Is Worth a Thousand Tokens: Visual Communication for Human-AI Collaboration</title>
+			<description>Meeting Room 4-4, Level 4. SMU SCIS 1, Singapore 178902 
+Tuesday, December 8, 2026, 11 - 11:30am 
+
+A Picture Is Worth a Thousand Tokens: Visual Communication for Human-AI Collaboration
+
+Recent developments in generative AI have been changing how we live, work, and dream, revolutionizing many industries through their versatile capabilities. Humans bring goals, context, and judgement, while AI contributes speed, scale, and computational power. However, a major barrier to the fluency between humans and AI lies in communication, including expressing intent and understanding AI behavior. In this talk, I will share my perspective on the key considerations that shape effective human-AI communication via deliberately designed visualizations and interactions, through concrete examples spanning software development, graphic design, and beyond. These considerations offer a framework for thinking about how to design next-generation human-centered AI systems. 
+
+More info: computing.smu.edu.sg…: 
+https://computing.smu.edu.sg/newsletter/research-seminar-jian-zhao-picture-worth-thousand-tokens-visual-communication-human-ai?newsletter</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D214108007</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/cmrkk4zrefjb3rndegcvyd8wm8</x-trumba:ealink>
+			<category>2026/12/08 (Tue)</category>
+			<pubDate>08 Dec 2026 03:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/214108007</guid>
+			<xCal:summary>A Picture Is Worth a Thousand Tokens: Visual Communication for Human-AI Collaboration</xCal:summary>
+			<xCal:location>Meeting Room 4-4, Level 4. SMU SCIS 1, Singapore 178902</xCal:location>
+			<xCal:dtstart>2026-12-08T03:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-08T11:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, December 8, 2026, 11 - 11:30am</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-08T03:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-08T11:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Recent developments in generative AI have been changing how we live, work, and dream, revolutionizing many industries through their versatile capabilities. Humans bring goals, context, and judgement, while AI contributes speed, scale, and computational power. However, a major barrier to the fluency between humans and AI lies in communication, including expressing intent and understanding AI behavior. In this talk, I will share my perspective on the key considerations that shape effective human-AI communication via deliberately designed visualizations and interactions, through concrete examples spanning software development, graphic design, and beyond. These considerations offer a framework for thinking about how to design next-generation human-centered AI systems.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/214108007</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_Common_01</x-trumba:customfield>
+			<x-trumba:customfield name="Subtitle" id="36498" type="text">Research Seminar by Jian ZHAO</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="1333" imageHeight="750">https://www.trumba.com/i/DgBbH2uT9IrSOn-X1j7XzIXS.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="Contact" id="36083" type="text">scisseminars@smu.edu.sg</x-trumba:customfield>
+			<x-trumba:customfield name="Speaker Details" id="37781" type="text">&lt;img src="https://computing.smu.edu.sg/sites/scis.smu.edu.sg/files/2026-11/jianzhao.png"&gt;&lt;br /&gt;&lt;b&gt;&lt;strong&gt;Jian ZHAO&lt;/strong&gt;&lt;/b&gt;
+Associate Professor
+Cheriton School of Computer Science
+University of Waterloo&lt;hr /&gt;Dr. Jian Zhao is an Associate Professor in the Cheriton School of Computer Science, University of Waterloo, where he directs the WVisdom research lab. His research lies in the intersection of Information Visualization, Human-Computer Interaction, Data Science, and Human-Centered AI. He is dedicated to developing advanced interaction and visualization techniques that promote the interplay between humans, machines, and data. Dr. Zhao received his Ph.D. from the Department of Computer Science, University of Toronto, and joined the University of Waterloo in 2019 after working in the industry. &amp;nbsp; Dr. Jian Zhao has published over 100 peer-reviewed papers at prestigious venues in InfoVis, HCI, and other fields, winning numerous recognitions including five Best Paper, nine Best Paper Honorable Mention, three Best Poster/Demo (Honorable Mention) awards. He is also the recipient of multiple accolades such as the CS-Can|Info-Can Early Career Research Award (2025), Ontario Early Researcher Award (2025-2030), Outstanding Performance Award (2024), Cheriton Faculty Fellowship (2025-2028), and NSERC Discovery Accelerator Supplement (2020-2025). He is a Senior Member of ACM and IEEE. He has directly supervised five postdocs, 13 PhDs, 14 Master’s, and numerous undergrads, as well as mentored many PhDs during his tenure in industry and academia. He is an Associate Editor of IEEE TVCG. He has also served on the program committees of many world-class conferences such as IEEE VIS and ACM CHI, and has taken critical roles in the organizing committees of these venues such as ACM ISS’27 General Chair, IEEE PacificVis’26&amp;amp;27 TVCG Track Paper Chair, and ACM Alt.CHI’25 Paper Chair. Additionally, he has experiences at various industry research labs such as Microsoft, IBM, and Adobe, and holds over 20 granted patents. More information can be found on his website:&amp;nbsp;&lt;a href="https://www.jeffjianzhao.com/" title="https://www.jeffjianzhao.com" dir="ltr"&gt;www.jeffjianzhao.com&lt;/a&gt;.</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNDc4SzVWRFRRVThaS0NNWTZFSjBKQkIwVS4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNTlKUEFSU0lMTzZaWjhaT1c1U1k1MExDUC4u&amp;amp;route=shorturl" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://forms.cloud.microsoft/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTbOXO7ktpRtBsn62WuekYtpUNTlKUEFSU0lMTzZaWjhaT1c1U1k1MExDUC4u&amp;route=shorturl</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Seminars &amp; Workshops</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Information Technology &amp; Systems</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Academic Community,Current Student,Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems</x-trumba:categorycalendar>
+			<x-trumba:weblink>https://computing.smu.edu.sg/newsletter/research-seminar-jian-zhao-picture-worth-thousand-tokens-visual-communication-human-ai?newsletter</x-trumba:weblink>
+		</item>
+		<item>
+			<title>SMU: Gurugram Coffee Session</title>
+			<description>Starbucks, Shop Nos K6, K7, off Nh 8, near Building Number 8, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002 
+Thursday, December 10, 2026, 11:30am - 3:30pm 
+
+SMU: Gurugram Coffee Session</description>
+			<link>http://sis.smu.edu.sg/events?trumbaEmbed=view%3Devent%26eventid%3D213431714</link>
+			<x-trumba:ealink>https://www.trumba.com/eventactions/SMU_SchoolInfoSys#/actions/849hrcpfayu7gwc2fje06rkf11</x-trumba:ealink>
+			<category>2026/12/10 (Thu)</category>
+			<pubDate>10 Dec 2026 03:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/213431714</guid>
+			<xCal:summary>SMU: Gurugram Coffee Session</xCal:summary>
+			<xCal:location>Starbucks, Shop Nos K6, K7, off Nh 8, near Building Number 8, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002</xCal:location>
+			<xCal:dtstart>2026-12-10T03:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="MPST" tzCode="215">2026-12-10T11:30:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, December 10, 2026, 11:30am - 3:30pm</x-trumba:formatteddatetime>
+			<xCal:dtend>2026-12-10T07:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="MPST" tzCode="215">2026-12-10T15:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/213431714</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">SMU_NextWeb_InfoSessions</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="460" imageHeight="310">https://www.trumba.com/i/DgArTSMxqoUIlG2qgEwSGNWi.jpg</x-trumba:customfield>
+			<x-trumba:customfield name="RSVP" id="37849" type="text">&lt;a href="https://calendly.com/smupgpplkm/smu-consultation-hochiminh-122026" target="_blank"&gt;&lt;a href="https://postgraduate.smu.edu.sg/acton/media/11522/gurugram-cc-dec-26-trumba" target="_blank"&gt;&lt;img src="https://www.trumba.com/i/DgAXUv1k44EDfQnAhuTMBo7T.png" width="68" height="35"&gt;&lt;/a&gt;&lt;/a&gt;</x-trumba:customfield>
+			<x-trumba:customfield name="Reserve a seat" id="33896" type="uri">https://postgraduate.smu.edu.sg/acton/media/11522/gurugram-cc-dec-26-trumba</x-trumba:customfield>
+			<x-trumba:customfield name="Event Details" id="37907" type="text">Join us for an insightful session to ​​discover ​​how ​​our post-graduate programmes ​​can support your personal and professional aspirations. ​​
+
+Our Admissions Advisors will speak with you directly to provide detailed guidance on the application process and to discuss the financial aid and scholarship opportunities that may be available to you.
+
+For a pre-application assessment, please bring along a copy of your resume for a personalised review. Kindly note that sessions may be conducted in a group setting.</x-trumba:customfield>
+			<x-trumba:customfield name="Type" id="36046" type="text">Information Sessions</x-trumba:customfield>
+			<x-trumba:customfield name="Subject" id="36047" type="text">Accounting,Business,Economics,Law,Social Sciences &amp; Humanities</x-trumba:customfield>
+			<x-trumba:customfield name="Audience" id="36048" type="text">Public</x-trumba:customfield>
+			<x-trumba:categorycalendar>School of Computing and Information Systems|Master of IT in Business|Public Events</x-trumba:categorycalendar>
+		</item>
+	</channel>
+</rss>
